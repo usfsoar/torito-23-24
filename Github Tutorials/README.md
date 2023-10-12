@@ -1,6 +1,6 @@
 # Github Tutorials
 
-Please follow this [video](https://www.youtube.com/watch?v=iv8rSLsi1xo&list=PLWzABT4GTysfyFTM2mAiKjuKCykMu_FTr&index=1&pp=gAQBiAQB) for the basic understanding of github before reading further.
+Please follow this (video)[https://www.youtube.com/watch?v=iv8rSLsi1xo&list=PLWzABT4GTysfyFTM2mAiKjuKCykMu_FTr&index=1&pp=gAQBiAQB] for the basic understanding of github before reading further.
 
 There are a few main components of github itself, as stated in the video github desktop is probably the eaisest way to use github. The reason I recommend github desktop is it intuitive and easy to navigate, while offering everything github has to offer. You can also access many features the github website also has to offer without having to login to the website.
 
