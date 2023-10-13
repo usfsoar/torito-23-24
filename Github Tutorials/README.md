@@ -18,14 +18,19 @@ The following are some keywords to remember when using github:
 
 ### Supported File Types
 
-The following are supported file types that their commit changes can be viewed inside of the commit log:
+The following are supported file types that their commit changes can be viewed inside of the commit log, as well as be uploaded to github:
 
 - SVG
 - LOG
 - TXT
+- CSV
+- md
+- STL (Can be rendered and previewed)
+- (Any Coding Language)
 
 The following files types are not supported when showing their commit changes, but can still be uploaded to github:
 
+- SolidWorks Files
 - PNG
 - GIF
 - JPEG
