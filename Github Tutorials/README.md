@@ -38,3 +38,7 @@ The following files types are not supported when showing their commit changes, b
 - PDF
 - ZIP
 - MP4
+
+## Other Tutorials
+
+Once you understand this tutorial you can find other tutorials in this folder/directory.
