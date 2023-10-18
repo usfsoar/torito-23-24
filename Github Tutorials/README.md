@@ -42,3 +42,5 @@ The following files types are not supported when showing their commit changes, b
 ## Other Tutorials
 
 Once you understand this tutorial you can find other tutorials in this folder/directory.
+
+- [Github Desktop Tutorial](https://github.com/usfsoar/torito-23-24/blob/main/Github%20Tutorials/Github%20Desktop.md#github-desktop)
